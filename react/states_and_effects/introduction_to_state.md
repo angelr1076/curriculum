@@ -71,7 +71,7 @@ What we covered in this section is just a brief overview of a portion of React i
 Hooks are functions that let you use React features. All hooks are recognizable by the `use` prefix. For example, `useState` is a hook. We'll use more of these as we get further into the course. For now, remember that hooks have rules that we need to abide by:
 
 1. Hooks can only be called from the top level of a functional component.
-1. Hooks can't be called from inside loops or conditions.
+1. Hooks can't be declared from inside loops or conditions.
 
 ### Assignment
 
